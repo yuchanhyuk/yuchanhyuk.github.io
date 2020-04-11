@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "코로나 19에 대하여"
 date:   2020-03-31 13:33:24 +0900
 categories: jekyll update
